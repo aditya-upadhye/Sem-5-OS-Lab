@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void main()
 {
     int nop, wt[10], twt, tat[10], ttat, i, j, bt[10], t;
