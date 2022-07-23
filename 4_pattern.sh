@@ -1,3 +1,14 @@
+# Algorithm for Printing Pattern using Loop statement
+# 
+# Step 1: Get input from user for Limit
+# 
+# Step 2: Using nested for loops, print the pattern according to limit
+# 
+# Step 3: End the Program
+
+# -------------------------------------------------------------------------
+
+
 echo "Enter the Limit "
 read n
 echo "Pattern"
