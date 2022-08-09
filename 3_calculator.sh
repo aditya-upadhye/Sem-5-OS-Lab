@@ -10,7 +10,7 @@
 
 # -------------------------------------------------------------------------------------
 
-echo “Menu Based Calculator”
+echo "Menu Based Calculator"
 echo "Enter the Operands"
 read a
 read b
