@@ -17,9 +17,9 @@ read b
 echo "Enter the Operator"
 read o
 case $o in
-"+" ) echo “$a + $b” = `expr $a + $b`;;
-"-" ) echo “$a - $b” =  `expr $a - $b`;;
-"*" ) echo “$a * $b” =   `expr $a * $b`;;
-"/" ) echo  “$a / $b” =  `expr $a / $b`;;
+"+" ) echo "$a + $b" = `expr $a + $b`;;
+"-" ) echo "$a - $b" =  `expr $a - $b`;;
+"*" ) echo "$a * $b" =   `expr $a * $b`;;
+"/" ) echo "$a / $b" =  `expr $a / $b`;;
 * ) echo " Invalid Operation " 
 esac
