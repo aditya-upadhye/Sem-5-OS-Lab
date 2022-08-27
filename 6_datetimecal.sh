@@ -1,0 +1,5 @@
+echo "Date/Time/Calendar"
+echo "Current date is $(date +'%D')"
+echo "Current time is $(date +'%T')"
+echo "Current date in YY-MM-DD is $(date +'%Y-%m-%d')"
+echo "Current calendar month is $(cal -m)"
